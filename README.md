@@ -1,8 +1,8 @@
 # Título & Descrição Cuta: Calculadora da Médiado Aluno
 O meu objetivo é criar um programa que calcular a nota do aluno fictício.
 # Título: Tecnologias utilizadas
-A principal linguagem que foi utilizada no projeto foi o Python junto com o aplicativo chamado de Visual Studio Code(VS Code).
-- tecnologia 1: Python
+A principal linguagem que foi utilizada no projeto foi a extensão do Python junto com o aplicativo chamado de Visual Studio Code(VS Code).
+- tecnologia 1: Extensão do Python
 - tecnologia 2: VS Code
 # Título: Como Instalar e Executar 
 Não sei.
