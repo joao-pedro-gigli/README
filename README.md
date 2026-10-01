@@ -1,4 +1,4 @@
-# Título & Descrição Curta: Calculadora de Média do Aluno
+f# Título & Descrição Curta: Calculadora de Média do Aluno
 O meu objetivo é criar um programa que calcular a nota do aluno fictício.
 # Título: Tecnologias utilizadas
 A principal linguagem que foi utilizada no projeto foi a extensão do Python junto com o aplicativo chamado de Visual Studio Code(VS Code).
@@ -11,4 +11,4 @@ A primeira tela que foi feito pelo aplicativo chamado de Visual Studio Code(VS C
 # Título: Autor e Contato
 Quem desenvolveu o programa e o passo a passo foi João Pedro Gigli Cardoso da Silva 
 - Contado 1: joaogigli93@gmail.com
-- Contado 2: [Linkedin](https://www.linkedin.com/in/jo%C3%A3opedrogigli/)
+- Contado 2: [Meu perfil no linkedin](https://www.linkedin.com/in/jo%C3%A3opedrogigli/)
